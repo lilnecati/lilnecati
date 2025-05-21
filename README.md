@@ -44,11 +44,11 @@ Siber güvenlik dünyasında sürekli öğrenen ve keşfeden biriyim. CTF yarı�
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilinecati&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lilnecati&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilinecati&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilnecati&layout=compact&theme=radical)
 
-<img src="https://github-profile-trophy.vercel.app/?username=ilinecati&theme=onedark" alt="trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=lilnecati&theme=onedark" alt="trophy">
 
 ## 📫 İletişim
 
