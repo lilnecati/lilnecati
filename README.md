@@ -1,4 +1,4 @@
-# Hey! 👋 Ben İlinecati
+# Hey! 👋 Ben lilnecati
 
 ![Banner](https://raw.githubusercontent.com/ilinecati/ilinecati/main/cybersecurity-banner.png)
 
