@@ -1,6 +1,6 @@
 # Hey! 👋 Ben lilnecati
 
-![Banner](https://raw.githubusercontent.com/ilinecati/ilinecati/main/cybersecurity-banner.png)
+![Banner](https://raw.githubusercontent.com/lilnecati/ilinecati/main/cybersecurity-banner.png)
 
 ## 🔐 Siber Güvenlik Uzmanı | Ethical Hacker | CTF Player 🛡️
 
@@ -12,9 +12,9 @@ Siber güvenlik dünyasında sürekli öğrenen ve keşfeden biriyim. CTF yarı�
 
 ## 🚀 Projelerim
 
-🔍 [VulnScanner](https://github.com/ilinecati/vulnscanner): Gelişmiş zafiyet tarama aracı  
-🔒 [SecureAuth](https://github.com/ilinecati/secureauth): Çok faktörlü kimlik doğrulama sistemi  
-⚔️ [CTF-Tools](https://github.com/ilinecati/ctf-tools): CTF yarışmaları için geliştirdiğim araçlar
+🔍 [VulnScanner](https://github.com/lilnecati/vulnscanner): Gelişmiş zafiyet tarama aracı  
+🔒 [SecureAuth](https://github.com/lilnecati/secureauth): Çok faktörlü kimlik doğrulama sistemi  
+⚔️ [CTF-Tools](https://github.com/lilnecati/ctf-tools): CTF yarışmaları için geliştirdiğim araçlar
 
 ## 🛠 Uzmanlık Alanlarım
 
@@ -37,7 +37,7 @@ Siber güvenlik dünyasında sürekli öğrenen ve keşfeden biriyim. CTF yarı�
 
 ## ⚡ Siber Güvenlik İstatistiklerim
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ilinecati.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/lilnecati.png" alt="TryHackMe">
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-brightgreen?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/ilinecati)
 [![CTF Time](https://img.shields.io/badge/CTFTime-Profile-red?style=for-the-badge&logo=windows-terminal)](https://ctftime.org/team/12345)
