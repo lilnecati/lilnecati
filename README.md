@@ -13,7 +13,7 @@
 
 > *"Hayatta en hakiki mürşit ilimdir, fendir."* - Mustafa Kemal Atatürk
 
-<img align="right" alt="Hacker Cat GIF" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="400"/>
+<img align="right" alt="Hacker Cat GIF" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="300"/>
 
 💻 Sistemlere sızarken kahve içiyorum, arka planda karanlık elektronik müzik çalıyor!  
 🔐 **Siber Güvenlik** ve **Ethical Hacking** konularında uzmanlaşıyorum  
