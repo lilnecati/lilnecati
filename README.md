@@ -79,7 +79,6 @@
 
 <div align="center">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/lilnecati.png" alt="TryHackMe">
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding Cat" width="400"/>
 
@@ -115,23 +114,5 @@
 > *"Güvenlik bir süreçtir, ürün değil."* - Bruce Schneier
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-</div>
-
-## 🏅 Başarımlar
-
-<div align="center">
-
-### 🌟 Starstruck
-[![Starstruck](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=lilnecati&repo=VulnScanner&theme=dark&icon_color=ffff00&title_color=ffff00&text_color=ffffff&hide_border=true&show_owner=true)](https://github.com/lilnecati/VulnScanner)
-
-### 🔒 Security Expert
-[![Security](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=lilnecati&repo=SecureAuth&theme=dark&icon_color=00ff00&title_color=00ff00&text_color=ffffff&hide_border=true&show_owner=true)](https://github.com/lilnecati/SecureAuth)
-
-### 🎯 CTF Master
-[![CTF](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=lilnecati&repo=CTF-Tools&theme=dark&icon_color=ff00ff&title_color=ff00ff&text_color=ffffff&hide_border=true&show_owner=true)](https://github.com/lilnecati/CTF-Tools)
-
-### 🚀 Quick Draw
-[![Quick Draw](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=lilnecati&repo=CAT-Tools&theme=dark&icon_color=00ffff&title_color=00ffff&text_color=ffffff&hide_border=true&show_owner=true)](https://github.com/lilnecati/CAT-Tools)
 
 </div>
