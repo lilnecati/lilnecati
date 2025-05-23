@@ -72,14 +72,6 @@
 ![Nmap](https://img.shields.io/badge/-Nmap-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdAAAAHQBMYXlgQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAC5SURBVCiRrdI9SgNBGIbhZ7JB8AccQbDQykKwsBUs7T2AYGHvCTyBR7ASBCsLK0/gDSw8gJWFhYVEMGR3ZnYd10SzKxZ5YWEYX56XmWEMIYQxxvgQQhiM6SUiTmKMp2mazjHDFAsscYVzPGCNO5zjY9fn7ThjeItzrPCJB1ziGlOc4QlfmOC4123QxyPe8Y0H9LDBO17RxS0+0MFEjPEKrS0e0/yXOd6wj5sY48kfF24xxl0IYbNtfwAOjEFGFnNGEQAAAABJRU5ErkJggg==)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=for-the-badge&logo=kali-linux)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-</p>
 
 </div>
 
@@ -115,6 +107,22 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://linkedin.com/in/lilnecati)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/lilnecati)
+
+</div>
+
+<div align="center">
+
+> *"Güvenlik bir süreçtir, ürün değil."* - Bruce Schneier
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+</div>
+
+## 🏆 GitHub Başarılarım
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lilnecati&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
