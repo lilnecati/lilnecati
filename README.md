@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A7F700&center=true&vCenter=true&width=940&lines=Hey!+%F0%9F%91%8B+Ben+Necati+Y%C4%B1ld%C4%B1r%C4%B1m+%7C+%40lilnecati;Siber+G%C3%BCvenlik+Uzman%C4%B1+%7C+Ethical+Hacker+%7C+CTF+Player)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/lilnecati/lilnecati/main/cybersecurity-banner.png" width="800">
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="800">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lilnecati&color=brightgreen&style=flat-square&label=Profil+Görüntülenme)
 [![GitHub followers](https://img.shields.io/github/followers/lilnecati?style=flat-square&color=brightgreen)](https://github.com/lilnecati?tab=followers)
