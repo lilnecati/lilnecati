@@ -13,7 +13,7 @@
 
 > *"Hayatta en hakiki mürşit ilimdir, fendir."* - Mustafa Kemal Atatürk
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lilnecati/lilnecati/main/hacker-animation.gif" width="400"/>
+<img align="right" alt="Hacker Cat GIF" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="400"/>
 
 💻 Sistemlere sızarken kahve içiyorum, arka planda karanlık elektronik müzik çalıyor!  
 🔐 **Siber Güvenlik** ve **Ethical Hacking** konularında uzmanlaşıyorum  
@@ -49,6 +49,10 @@
 
 | 🔐 Penetrasyon Testleri | 🔍 Zararlı Yazılım Analizi | 🕵️ OSINT Araştırmaları | 🛡️ Ağ Güvenliği | ⚔️ CTF Çözümleri |
 |------------------------|--------------------------|---------------------|----------------|-----------------|
+| Web App Pentesting | Statik/Dinamik Analiz | Sosyal Medya İstihbaratı | Firewall Yönetimi | Binary Exploitation |
+| Mobile App Security | Reverse Engineering | HUMINT Toplama | IDS/IPS Sistemleri | Web Exploitation |
+| API Security Testing | Malware Development | Veri Sızıntı Analizi | VPN Çözümleri | Cryptography |
+| IoT Güvenlik Testleri | Sandbox Analizi | Tehdit Avı | Zero Trust Security | Forensics |
 
 </div>
 
@@ -62,6 +66,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdAAAAHQBMYXlgQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADSSURBVCiRrdIxSgNBFMbx3yQbBEEQbaxELLyAYGFtYeUFxCvYegQLwQOIFuIFxNLWG4i1jYVoI0QQJCgYdmcdZ7PJmtTzpplv3ve9N0zEGDvxgyvc4QnP2McUK7jALZbxhbVmjEAXvQI8YQsPEZ9xXLDvMcYgQRdwhwW8NmM0CpjDY4H28Zk6NZqtY7yUxGEVNI2PAvVwg/VqYlXqYQwwxCa2MUqJDexiFu+4xiK+E+gTGziN+MIlpvCWQFNYxwXOIp4wh1FZqi21v0Yf/39++4OZJMzYA+Zw5QAAAABJRU5ErkJggg==)
+![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=for-the-badge&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdAAAAHQBMYXlgQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADESURBVCiRrdI9TgJBFMDx384GthRKEgpjYW1CaU1l4gE8AAfwAHoAKy9gQmJhQmJi4QE4AHgDGxO1oKAxYZXZj9kBdqmcZDLvzfzyJu9NEBFKKQPgBHhSSp2JyEJEoqK+AXSBGfCilDoWkXkR9IBbpdQtsA2sgG0RGQIvwJFS6gp4y0Gu694DfWAE9EXkKSfVgCEwBgYi8pGBhmF4DpwCN8Bb8kMVuE7+PwNmWuvPrYgAOI7TMzMbxXH8ICJB3rmu2wYawKKU8hdeCt5L4EEcpQAAAABJRU5ErkJggg==)
+![Nmap](https://img.shields.io/badge/-Nmap-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdAAAAHQBMYXlgQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAC5SURBVCiRrdI9SgNBGIbhZ7JB8AccQbDQykKwsBUs7T2AYGHvCTyBR7ASBCsLK0/gDSw8gJWFhYVEMGR3ZnYd10SzKxZ5YWEYX56XmWEMIYQxxvgQQhiM6SUiTmKMp2mazjHDFAsscYVzPGCNO5zjY9fn7ThjeItzrPCJB1ziGlOc4QlfmOC4123QxyPe8Y0H9LDBO17RxS0+0MFEjPEKrS0e0/yXOd6wj5sY48kfF24xxl0IYbNtfwAOjEFGFnNGEQAAAABJRU5ErkJggg==)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=for-the-badge&logo=kali-linux)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
@@ -79,6 +88,8 @@
 <div align="center">
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/lilnecati.png" alt="TryHackMe">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding Cat" width="400"/>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-brightgreen?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/lilnecati)
 [![CTF Time](https://img.shields.io/badge/CTFTime-Profile-red?style=for-the-badge&logo=windows-terminal)](https://ctftime.org/team/12345)
