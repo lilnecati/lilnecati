@@ -92,12 +92,36 @@
 
 <div align="center">
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=lilnecati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilnecati&layout=compact&theme=radical"/>
+### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lilnecati&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilnecati&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true)
 
-<img src="https://github-profile-trophy.vercel.app/?username=lilnecati&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+### Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lilnecati&theme=matrix&hide_border=true)](https://git.io/streak-stats)
+
+### En Çok Kullandığım Diller
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilnecati&theme=matrix&hide_border=true&layout=compact)
+
+### Başarı Rozetleri
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+
+[![MultiLanguage](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=lilnecati&repo=MultiLanguage&theme=matrix&hide_border=true)](https://github.com/lilnecati/MultiLanguage)
+[![LongTimeUser](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=lilnecati&repo=LongTimeUser&theme=matrix&hide_border=true)](https://github.com/lilnecati/LongTimeUser)
+[![Stars](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=lilnecati&repo=Stars&theme=matrix&hide_border=true)](https://github.com/lilnecati/Stars)
+[![Experience](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=lilnecati&repo=Experience&theme=matrix&hide_border=true)](https://github.com/lilnecati/Experience)
+
+</div>
+
+</div>
+
+## 🏆 GitHub Trophy Vitrini
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lilnecati&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -107,22 +131,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://linkedin.com/in/lilnecati)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/lilnecati)
-
-</div>
-
-<div align="center">
-
-> *"Güvenlik bir süreçtir, ürün değil."* - Bruce Schneier
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-</div>
-
-## 🏆 GitHub Başarılarım
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lilnecati&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
