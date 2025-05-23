@@ -116,3 +116,14 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
+
+## 🌐 Sosyal Medya
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/lilnecati)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/lilnecati)
+[![YouTube](https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube)](https://youtube.com/@lilnecati)
+[![Discord](https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord)](https://discord.gg/lilnecati)
+
+</div>
